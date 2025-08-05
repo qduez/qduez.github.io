@@ -82,8 +82,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  2016-2020:
+    title: 'Journal articles between 2016-2020'
+  2021-2025:
+    title: 'Journal articles between 2021-2025'
   conferences:
     title: 'Conference Papers'
 
