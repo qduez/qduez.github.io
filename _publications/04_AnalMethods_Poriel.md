@@ -4,7 +4,7 @@ collection: publications
 category: 2016-2020
 permalink: /publication/04_AnalMethods_Poriel
 excerpt: 'In collaboration with Prof. Cyril Poriel (Université de Rennes, France), we introduced ion mobility-mass spectrometry as a direct method to distringuish positional isomers produced during the synthesis of compounds used in opto-electronics.'
-date: 2017-07-31
+date: 2018-04-20
 venue: 'Analytical Methods'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2018/ay/c8ay00568k'
