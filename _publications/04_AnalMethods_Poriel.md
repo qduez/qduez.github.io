@@ -2,7 +2,7 @@
 title: "Discrimination of positional isomers by ion mobility mass spectrometry: Application to organic semiconductors"
 collection: publications
 category: 2016-2020
-permalink: /publication/04_AnalMethods_Poriel
+permalink: /publications/04_AnalMethods_Poriel
 excerpt: 'In collaboration with Prof. Cyril Poriel (Université de Rennes, France), we introduced ion mobility-mass spectrometry as a direct method to distringuish positional isomers produced during the synthesis of compounds used in opto-electronics.'
 date: 2017-07-31
 venue: 'Analytical Methods'

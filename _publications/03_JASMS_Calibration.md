@@ -2,7 +2,7 @@
 title: "Polymers for Traveling Wave Ion Mobility Spectrometry Calibration"
 collection: publications
 category: 2016-2020
-permalink: /publication/03_JASMS_Calibration
+permalink: /publications/03_JASMS_Calibration
 excerpt: 'We proposed a new calibration based on the use of synthetic polymers for determining collisional cross sections on traveling wave ion mobility spectrometry instruments.'
 date: 2017-07-31
 venue: 'Journal of The American Society for Mass Spectrometry'

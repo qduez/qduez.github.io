@@ -2,7 +2,7 @@
 title: "Correlation between the shape of the ion mobility signals and the stepwise folding process of polylactide ions"
 collection: publications
 category: 2016-2020
-permalink: /publication/01_JMS_PLA
+permalink: /publications/01_JMS_PLA
 excerpt: 'In this paper, we analyzed polylactide ions with traveling wave ion mobility and tandem drift tube ion mobility. We observed the coexistence of non-interconverting extended and compact ion populations, suggesting that the polylactide ions are ‘frozen’ in their specific conformation during the desolvation/ionization Electrospray process.'
 date: 2017-01-23
 venue: 'Journal of Mass Spectrometry'

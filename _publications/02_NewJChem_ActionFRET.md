@@ -2,7 +2,7 @@
 title: " Action-FRET of β-cyclodextrin inclusion complexes"
 collection: publications
 category: 2016-2020
-permalink: /publication/02_NewJChem_ActionFRET
+permalink: /publications/02_NewJChem_ActionFRET
 excerpt: 'Here, we evaluated the feasibility of performing action-FRET on a supramolecular assembly constituted by a chromophore tagged cyclodextrin receptor and a donor chromophore tagged amyloid beta peptide fragment.'
 date: 2017-01-23
 venue: 'New Journal of Chemistry'
