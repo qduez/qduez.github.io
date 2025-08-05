@@ -1,0 +1,15 @@
+---
+title: "Correlation between the shape of the ion mobility signals and the stepwise folding process of polylactide ions"
+collection: publications
+category: 2016-2020
+permalink: /publication/01_JMS_PLA
+excerpt: 'In this paper, we analyzed polylactide ions with traveling wave ion mobility and tandem drift tube ion mobility. We observed the coexistence of non-interconverting extended and compact ion populations, suggesting that the polylactide ions are ‘frozen’ in their specific conformation during the desolvation/ionization Electrospray process.'
+date: 2017-01-23
+venue: 'Journal of Mass Spectrometry'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/epdf/10.1002/jms.3915'
+bibtexurl: 'http://qduez.github.io/files/01_JMS_PLA.bib'
+citation: 'Quentin Duez, Thomas Josse, Vincent Lemaur, Fabien Chirot, Chang Minh Choi, Philippe Dubois, Philippe Dugourd, Jérôme Cornil, Pascal Gerbaux, Julien De Winter. (2017). &quot;Correlation between the shape of the ion mobility signals and the stepwise folding process of polylactide ions.&quot; <i>Journal of Mass Spectrometry</i>. 52(3), 133-138.'
+---
+Abstract :
+In the field of polymer characterization, the use of ion mobility mass spectrometry (IMMS) remains mainly devoted to the temporal separation of cationized oligomers according to their charge states, molecular masses and macromolecular architectures in order to probe the presence of different structures. When analyzing multiply charged polymer ions by IMMS, the most striking feature is the observation of breaking points in the evolution of the average collision cross sections with the number of monomer units. Those breaking points are associated to the folding of the polymer chain around the cationizing agents. Here, we scrutinize the shape of the arrival time distribution (ATD) of polylactide ions and associate the broadening as well as the loss of symmetry of the ATD signals to the coexistence of different populations of ions attributed to the transition from opened to folded stable structures. The observation of distinct distributions reveals the absence of folded/extended structure interconversion on the ion mobility time scale (1–10 ms) and then on the lifetime of ions within the mass spectrometer at room temperature. In order to obtain information on the possible interconversion between the different observed populations upon ion activation, we performed IM–IM–MS experiments (tandem ion mobility measurements). To do so, mobility-selected ions were activated by collisions before a second mobility measurement. Interestingly, the conversion by collisional activation from a globular structure into a (partially) extended structure, i.e. the gas phase unfolding of the ions, was not observed in the energetic regime available with the used experimental setup. The absence of folded/extended interconversion, even upon collisional activation, points to the fact that the polylactide ions are ‘frozen’ in their specific 3D structure during the desolvation/ionization electrospray processes.
