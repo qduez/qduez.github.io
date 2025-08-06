@@ -3,7 +3,7 @@ title: "Silver ion induced folding of alkylamines observed by ion mobility exper
 collection: publications
 category: 2016-2020
 permalink: /publication/08_IJMS_Alkylamines
-excerpt: 'In this publication, we investigated the additional stabilization of longer metal-complexed alkylamines compared to ones with shorter alkyl chains. This publication was awarded the 2019 IJMS Best Student Paper Award.'
+excerpt: 'In this publication, we investigated the additional stabilization of longer metal-complexed alkylamines compared to ones with shorter alkyl chains. **This publication was awarded the 2019 IJMS Best Student Paper Award.**'
 date: 2018-10-09
 venue: 'International Journal of Mass Spectrometry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

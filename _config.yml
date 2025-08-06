@@ -82,10 +82,12 @@ author:
 publication_category:
   books:
     title: 'Books'
-  2016-2020:
-    title: 'Journal articles between 2016-2020'
+  submitted:
+    title: 'Articles submitted for publication'
   2021-2025:
-    title: 'Journal articles between 2021-2025'
+    title: 'Peer-reviewed articles between 2021-2025'
+  2016-2020:
+    title: 'Peer-reviewed articles between 2016-2020'
   conferences:
     title: 'Conference Papers'
 
