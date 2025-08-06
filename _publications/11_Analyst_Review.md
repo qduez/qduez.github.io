@@ -2,7 +2,7 @@
 title: "Charging and supercharging of proteins for mass spectrometry: Recent insights into the mechanisms of electrospray ionization"
 collection: publications
 category: 2016-2020
-permalink: /publication/11_Analyst_Review
+#permalink: /publication/11_Analyst_Review
 excerpt: 'This review article discusses recent computational and experimental studies that have shed light on the mechanisms whereby [M + zH]z+ protein ions are released from charged nanodroplets during Electrospray Ionization.'
 date: 2019-09-23
 venue: 'Analyst'
