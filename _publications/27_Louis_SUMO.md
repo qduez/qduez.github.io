@@ -8,8 +8,8 @@ date: 2025-07-13
 venue: 'ACS Pharmacology & Translational Science'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acsptsci.5c00259'
-#bibtexurl: 'http://qduez.github.io/files/27_Louis_SUMO.bib'
-citation: 'Louis Groignet, David Delemme, Quentin Duez,  Afaf Fizazi, Jean-Marie Colet, Patrick Brocorens, Mathieu Surin, Pascal Gerbaux, Julien De Winter. (2025). &quot; Impact of Post-Translational Succination on Small Ubiquitin-Like Modifier 1 Structure: A Dual Approach Combining Gas Phase and Solution Studies.&quot; <i>ACS Pharmacology & Translational Science</i>. In press.'
+bibtexurl: 'http://qduez.github.io/files/27_Louis_SUMO.bib'
+citation: 'Louis Groignet, David Delemme, Quentin Duez,  Afaf Fizazi, Jean-Marie Colet, Patrick Brocorens, Mathieu Surin, Pascal Gerbaux, Julien De Winter. (2025). &quot; Impact of Post-Translational Succination on Small Ubiquitin-Like Modifier 1 Structure: A Dual Approach Combining Gas Phase and Solution Studies.&quot; <i>ACS Pharmacology & Translational Science</i>. 8 (8), 2683-2693.'
 ---
 
 Abstract:
