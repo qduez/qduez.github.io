@@ -139,6 +139,10 @@
 <lastmod>2025-07-18T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/publication/29_ChemEurope_Oscillations</loc>
+<lastmod>2025-09-13T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/talks/01_SRC_2016</loc>
 <lastmod>2016-10-15T00:00:00+00:00</lastmod>
 </url>
@@ -185,6 +189,10 @@
 <url>
 <loc>http://localhost:4000/talks/12_ASMS_2025</loc>
 <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/talks/13_ESOR_2025</loc>
+<lastmod>2025-09-09T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/01_Radboud</loc>

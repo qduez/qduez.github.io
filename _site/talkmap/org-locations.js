@@ -1,22 +1,62 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.1440551
+    "Inside out : Ion mobility for porphyrin cage catalysts<br />FMS Annual Meeting; Zwolle, The Netherlands",
+    52.5089759,
+    6.0943765
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Correlation between the shape of the ion mobility signals and the stepwise folding process of polylactide ions<br />22<sup>nd</sup> Meeting of the Young French Mass Spectrometry Society; Tr\u00e9lon, France",
+    50.061164,
+    4.1035648
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "From molecules in solution to ions in gas-phase: Modelling the Electrospray Ionization process<br />12<sup>th</sup> Meeting of the Young Chemists of the Belgian Royal Society of Chemistry; Brussels, Belgium",
+    50.8465573,
+    4.351697
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Ion mobility mass spectrometry and molecular dynamics reveal insights on ESI mechanisms<br />4<sup>th</sup> NVMS-BSMS Conference on Mass Spectrometry; Rolduc, The Netherlands",
+    50.8667655,
+    6.0766618
+  ],
+  [
+    "Mapping chemical reaction networks with mass spectrometry<br />NVMS Spring Symposium; Wageningen, The Netherlands",
+    51.9663016,
+    5.6662814
+  ],
+  [
+    "\u00c9valuation et d\u00e9veloppement de l'association mobilit\u00e9 ionique / dynamique mol\u00e9culaire pour l'\u00e9tude structurale de macro-ions en phase gazeuse : analyse conformationnelle d'ions polym\u00e8res produits par Electrospray<br />Annual Meeting of the Belgian Royal Society of Chemistry; Li\u00e8ge, Belgium",
+    50.6450944,
+    5.5736112
+  ],
+  [
+    "**[Invited lecture]** Mass spectrometry, ion mobility spectrometry and macromolecules : A tutorial lecture<br />Analytical meeting - Ardena; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
+    "Metal-ligand equilibria in solution: Quantitative insights from isotopic labelling<br />5<sup>th</sup> NVMS-BSMS Meeting; Rolduc, The Netherlands",
+    50.8667655,
+    6.0766618
+  ],
+  [
+    "Correlation between the shape of the ion mobility signals and the stepwise folding process of polylactide ions<br />Annual Meeting of the Belgian Society for Mass Spectrometry; Leuven, Belgium",
+    50.879202,
+    4.7011675
+  ],
+  [
+    "Mapping how chemical reaction networks process information with mass spectrometry<br />French Days of Mass Spectrometry; Marseille, France",
+    43.2961743,
+    5.3699525
+  ],
+  [
+    "Ion mobility mass spectrometry and molecular dynamics for the structural characterization of polymer ions: Insights of Electrospray Ionization mechanisms<br />36<sup>th</sup> Informal Meeting on Mass Spectrometry; K\u00f3szeg, Hungary",
+    47.3894949,
+    16.5406843
+  ],
+  [
+    "Mapping chemical reaction networks by integrating ESI-MS and continuous flow chemistry<br />73<sup>rd</sup> ASMS Meeting; Baltimore (MD), USA",
+    39.2908816,
+    -76.610759
   ]
 ];
