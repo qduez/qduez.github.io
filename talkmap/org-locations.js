@@ -50,7 +50,7 @@ var addressPoints = [
     5.5736112
   ],
   [
-    "Tracking propagating perturbations in chemical reactions<br />73<sup>rd</sup> European Symposium on Organic Reactivity; Padova, Italy",
+    "Tracking propagating perturbations in chemical reactions<br />20<sup>th</sup> European Symposium on Organic Reactivity; Padova, Italy",
     45.391408,
     11.8058487
   ],
