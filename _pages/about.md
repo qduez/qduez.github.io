@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello ! Welcome to my personal page."
+title: "Quentin Duez - GitHub page."
 author_profile: true
 redirect_from: 
   - /about/
