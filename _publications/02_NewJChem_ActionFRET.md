@@ -9,6 +9,7 @@ venue: 'New Journal of Chemistry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2017/nj/c6nj03250h#!divAbstract'
 bibtexurl: 'http://qduez.github.io/files/02_NewJChem_ActionFRET.bib'
+imgurl: '/files/02_NewJChem_ActionFRET.png'
 citation: 'Quentin Duez, Geoffrey Knight, Steven Daly, Julien De Winter, Emilie Halin, Luke MacAleese, Rodolphe Antoine, Pascal Gerbaux and Philippe Dugourd. (2017). &quot;Action-FRET of β-cyclodextrin inclusion complexes.&quot; <i>New Journal of Chemistry</i>. 41(4), 1806-1812.'
 ---
 Abstract :

@@ -10,6 +10,7 @@ venue: 'Polymer Chemistry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2025/py/d5py00194c'
 bibtexurl: 'http://qduez.github.io/files/25_PolymChem_Sarajit.bib'
+imgurl: '/files/25_PolymChem_Sarajit.png'
 citation: 'Sarajit Naskar, Aidan Izuagbe, Vincent Lemaur, Quentin Duez, Andrea Minoia, Julien De Winter, Stephen J. Blanksby, Jérôme Cornil, Christopher Barner-Kowollik, and Pascal Gerbaux. (2025). &quot; Ion mobility mass spectrometry coupled with molecular dynamics simulations: in-depth structural analysis of polystyrene-based Au-containing copolymers.&quot; <i>Polymer Chemistry</i>. 16(18), 2143–2153.'
 ---
 

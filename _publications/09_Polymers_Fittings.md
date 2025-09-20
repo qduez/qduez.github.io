@@ -9,6 +9,7 @@ venue: 'Polymers'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.mdpi.com/2073-4360/11/4/688'
 bibtexurl: 'http://qduez.github.io/files/09_Polymers_Fittings.bib'
+imgurl: '/files/09_Polymers_Fittings.png'
 citation: 'Quentin Duez, Romain Liénard, Sébastien Moins, Vincent Lemaur, Olivier Coulembier, Jérôme Cornil, Pascal Gerbaux, Julien De Winter. (2019). &quot; One Step Further in the Characterization of Synthetic Polymers by Ion Mobility Mass Spectrometry: Evaluating the Contribution of End-groups.&quot; <i>Polymers</i>. 11(4), 688.'
 ---
 Abstract :

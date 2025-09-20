@@ -10,6 +10,7 @@ venue: 'Chemical Science'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03342b'
 bibtexurl: 'http://qduez.github.io/files/19_DRL_Cage.bib'
+imgurl: '/files/19_DRL_Cage.png'
 citation: 'Quentin Duez*, Paul Tinnermans, Johannes A. A. W. Elemans, Jana Roithová. (2023). &quot; Kinetics of ligand exchange in solution: a quantitative mass spectrometry approach.&quot; <i>Chemical Science</i>. 14(36), 9759–9769.'
 ---
 

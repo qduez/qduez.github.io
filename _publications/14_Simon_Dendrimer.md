@@ -9,6 +9,7 @@ venue: 'Inorganic Chemistry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.inorgchem.0c02336'
 bibtexurl: 'http://qduez.github.io/files/14_Simon_Dendrimer.bib'
+imgurl: '/files/14_Simon_Dendrimer.png'
 citation: 'Simon Cerfontaine, Quentin Duez, Ludovic Troian-Gautier, Gabriella Barozzino-Consiglio, Frédérique Loiseau, Jérôme Cornil, Julien De Winter, Pascal Gerbaux, Benjamin Elias. (2020). &quot; Efficient Convergent Energy Transfer in a Stereoisomerically Pure Heptanuclear Luminescent Terpyridine-Based Ru(II)–Os(II) Dendrimer.&quot; <i>Inorganic Chemistry</i>. 59(19), 14536-14543.'
 ---
 

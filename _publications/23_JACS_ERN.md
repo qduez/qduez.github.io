@@ -10,6 +10,7 @@ venue: 'Journal of the American Chemical Society'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/10.1021/jacs.4c04218'
 bibtexurl: 'http://qduez.github.io/files/23_JACS_ERN.bib'
+imgurl: '/files/23_JACS_ERN.png'
 citation: 'Quentin Duez, Jeroen van de Wiel, Bob van Sluijs, Souvik Ghosh, Mathieu G. Baltussen, Max T. G. M. Derks, Jana Roithová, Wilhelm T. S. Huck. (2024). &quot; Quantitative Online Monitoring of an Immobilized Enzymatic Network by Ion Mobility–Mass Spectrometry.&quot; <i>Journal of the American Chemical Society</i>. 146(30), 20778–20787.'
 ---
 

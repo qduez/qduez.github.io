@@ -9,6 +9,7 @@ venue: 'Journal of The American Society for Mass Spectrometry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/10.1007/s13361-017-1762-4'
 bibtexurl: 'http://qduez.github.io/files/03_JASMS_Calibration.bib'
+imgurl: '/files/03_JASMS_Calibration.png'
 citation: 'Quentin Duez, Fabien Chirot, Romain Liénard, Thomas Josse, ChangMin Choi, Olivier Coulembier, Philippe Dugourd, Jérôme Cornil, Pascal Gerbaux, Julien De Winter. (2017). &quot;Polymers for Traveling Wave Ion Mobility Spectrometry Calibration.&quot; <i>Journal of The American Society for Mass Spectrometry</i>. 28(11), 2483-2491.'
 ---
 Abstract :

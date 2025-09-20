@@ -9,6 +9,7 @@ venue: 'Analytical Chemistry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.analchem.8b02115'
 bibtexurl: 'http://qduez.github.io/files/06_AnalChem_PPG.bib'
+imgurl: '/files/06_AnalChem_PPG.png'
 citation: 'Quentin Duez, Haidy Metwally, Lars Konermann. (2018). &quot;Electrospray Ionization of Polypropylene Glycol: Rayleigh-Charged Droplets, Competing Pathways, and Charge State-Dependent Conformations.&quot; <i>Analytical Chemistry</i>. 90(16), 9912-9920.'
 ---
 Abstract :

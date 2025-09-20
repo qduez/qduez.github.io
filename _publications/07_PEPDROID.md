@@ -9,6 +9,7 @@ venue: 'Advanced Theory and Simulations'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adts.201800089'
 bibtexurl: 'http://qduez.github.io/files/07_PEPDROID.bib'
+imgurl: '/files/07_PEPDROID.png'
 citation: 'Sébastien Hoyas, Vincent Lemaur, Quentin Duez, Fabrice Saintmont, Emilie Halin, Julien De Winter, Pascal Gerbaux, Jérôme Cornil. (2018). &quot;PEPDROID: Development of a Generic DREIDING-Based Force Field for the Assessment of Peptoid Secondary Structures.&quot; <i>Advanced Theory and Simulations</i>. 1(12), 1800089.'
 ---
 Abstract :

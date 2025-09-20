@@ -10,6 +10,7 @@ venue: 'Chemistry - A European Journal'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202303619'
 bibtexurl: 'http://qduez.github.io/files/21_ChemEurJ_Eschenmoser.bib'
+imgurl: '/files/21_ChemEurJ_Eschenmoser.png'
 citation: 'Quentin Duez*, Lukáš Marek, Jiří Váňa, Jiří Hanusek, Jana Roithová. (2024). &quot; Autocatalysis in Eschenmoser Coupling Reactions.&quot; <i>Chemistry - A European Journal</i>. 30(9), e202303619.'
 ---
 

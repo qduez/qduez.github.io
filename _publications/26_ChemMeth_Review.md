@@ -9,6 +9,7 @@ venue: 'Chemistry - Methods'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmtd.202400036'
 bibtexurl: 'http://qduez.github.io/files/26_ChemMeth_Review.bib'
+imgurl: '/files/26_ChemMeth_Review.png'
 citation: 'Quentin Duez*. (2025). &quot; Integrating Flow Chemistry With Electrospray Ionization Mass Spectrometry.&quot; <i>Chemistry - Methods</i>. 5(4), e202400036.'
 ---
 

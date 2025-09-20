@@ -9,6 +9,7 @@ venue: 'Analyst'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2019/an/c9an01201j'
 bibtexurl: 'http://qduez.github.io/files/11_Analyst_Review.bib'
+imgurl: '/files/11_Analyst_Review.png'
 citation: 'Lars Konermann, Haidy Metwally, Quentin Duez, Insa Peters. (2019). &quot; Charging and supercharging of proteins for mass spectrometry: Recent insights into the mechanisms of electrospray ionization.&quot; <i>Analyst</i>. 144(21), 6157-6171.'
 ---
 Abstract :

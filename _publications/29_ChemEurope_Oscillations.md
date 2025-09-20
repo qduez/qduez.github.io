@@ -3,14 +3,14 @@ title: "Tracking Propagating Perturbations in Chemical Reactions"
 collection: publications
 category: submitted
 permalink: /publication/29_ChemEurope_Oscillations
-excerpt: 'Periodic perturbations, such as modulations of reactant concentration, propagate through chemical reactions with distinct phase delays. Tracking the propagation of such perturbations presents a powerful approach for probing reaction connectivity and rates of individual reaction steps, provided that high-throughput and information-rich analytical approaches are used. Here, we report on the online monitoring of periodic perturbations in the organocatalytic addition of cyclopentadiene to α,β-unsaturated aldehydes by Electrospray ionization-mass spectrometry (ESI-MS). Upon perturbation of input concentrations, ion intensities corresponding to substrates and reaction intermediates detected by ESI-MS exhibit characteristic time delays, providing quantitative insights into the kinetics of individual reaction steps, as supported by
-numerical simulations.'
+excerpt: 'Periodic perturbations, such as modulations of reactant concentration, propagate through chemical reactions with distinct phase delays. In this project, we used ESI-MS to monitor the propagation of periodic concentrations perturbations through an organocatalytic reaction in a continuous stirred tank reactor (CSTR). The propagation patterns provide insights on reaction kinetics in solution, especially by comparing reactants bearing electron donating or withdrawing substituents. Although the reaction studied is relatively simple, we plan to extend this approach to much larger reaction networks.'
 #date: 2025-09-13 #!! Comment if submitted !!
 #venue: 'ChemistryEurope' #!! Comment if submitted !!
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: ''
 #bibtexurl: ''
-citation: 'Charlotte Lefebvre, Quentin Duez.* (2025). &quot; Tracking Propagating Perturbations in Chemical Reactions.&quot; <i>ChemistryEurope</i>. Submitted.'
+imgurl: '/files/29_ChemEurope_Oscillations.png'
+citation: 'Charlotte Lefebvre, Quentin Duez.* (2025). &quot; Tracking Propagating Perturbations in Chemical Reactions.&quot; <i>ChemistryEurope</i>. Accepted.'
 ---
 
 Abstract:

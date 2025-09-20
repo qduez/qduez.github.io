@@ -10,6 +10,7 @@ venue: 'Mass Spectrometry Reviews'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/mas.21745'
 bibtexurl: 'http://qduez.github.io/files/18_IMS_review.bib'
+imgurl: '/files/18_IMS_review.png'
 citation: 'Quentin Duez, Sébastien Hoyas, Thomas Josse, Jérôme Cornil, Pascal Gerbaux, Julien de Winter. (2023). &quot; Gas-phase structure of polymer ions: Tying together theoretical approaches and ion mobility spectrometry.&quot; <i>Mass Spectrometry Reviews</i>. 42(4), 1129-1151.'
 ---
 

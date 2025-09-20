@@ -13,6 +13,7 @@ venue: 'European Journal of Organic Chemsitry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ejoc.202200280'
 bibtexurl: 'http://qduez.github.io/files/17_Cage_Oxo.bib'
+imgurl: '/files/17_Cage_Oxo.png'
 citation: 'Xiaofei Chen, Quentin Duez,  Guilherme L. Tripodi, Pieter J. Gilissen, Dimitrios Piperoudis, Paul Tinnermans, Johannes A. A. W. Elemans, Jana Roithová, Roeland J. M. Nolte. (2022). &quot; Mechanistic Studies on the Epoxidation of Alkenes by Macrocyclic Manganese Porphyrin Catalysts.&quot; <i>European Journal of Organic Chemsitry</i>. 2022(35), e202200280.'
 ---
 

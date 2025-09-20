@@ -9,6 +9,7 @@ venue: 'Analytical Chemistry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.analchem.8b02926'
 bibtexurl: 'http://qduez.github.io/files/05_AnalChem_Haidy.bib'
+imgurl: '/files/05_AnalChem_Haidy.png'
 citation: 'Haidy Metwally, Quentin Duez, Lars Konermann. (2018). &quot;Chain Ejection Model for Electrospray Ionization of Unfolded Proteins: Evidence from Atomistic Simulations and Ion Mobility Spectrometry.&quot; <i>Analytical Chemistry</i>. 90(16), 10069-10077.'
 ---
 Abstract :

@@ -9,6 +9,7 @@ venue: 'Physical Chemistry Chemical Physics'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2020/cp/c9cp06391a'
 bibtexurl: 'http://qduez.github.io/files/12_ESI_PLA.bib'
+imgurl: '/files/12_ESI_PLA.png'
 citation: 'Quentin Duez, Haidy Metwally, Sébastien Hoyas, Vincent Lemaur, Jérôme Cornil, Julien De Winter, Lars Konermann, Pascal Gerbaux. (2020). &quot; Effects of electrospray mechanisms and structural relaxation on polylactide ion conformations in the gas phase: insights from ion mobility spectrometry and molecular dynamics simulations.&quot; <i>Physical Chemistry Chemical Physics</i>. 22(7), 4193-4204.'
 ---
 Abstract :

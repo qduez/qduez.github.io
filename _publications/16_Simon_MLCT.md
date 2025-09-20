@@ -9,6 +9,7 @@ venue: 'Inorganic Chemistry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.inorgchem.0c03004'
 bibtexurl: 'http://qduez.github.io/files/16_Simon_MLCT.bib'
+imgurl: '/files/16_Simon_MLCT.png'
 citation: 'Simon Cerfontaine, Ludovic Troian-Gautier, Quentin Duez, Jérôme Cornil, Pascal Gerbaux, Benjamin Elias. (2021). &quot; MLCT Excited-State Behavior of Trinuclear Ruthenium(II) 2,2′-Bipyridine Complexes.&quot; <i>Inorganic Chemistry</i>. 60(1), 366-379.'
 ---
 

@@ -9,6 +9,7 @@ venue: 'Journal of the American Society for Mass Spectrometry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/10.1021/jasms.0c00352'
 bibtexurl: 'http://qduez.github.io/files/15_IMS_PLA_PPL.bib'
+imgurl: '/files/15_IMS_PLA_PPL.png'
 citation: 'Quentin Duez, Sébastien Moins, Olivier Coulembier, Julien De Winter, Jérôme Cornil, Pascal Gerbaux. (2020). &quot; Assessing the Structural Heterogeneity of Isomeric Homo and Copolymers: an Approach Combining Ion Mobility Mass Spectrometry and Molecular Dynamics Simulations.&quot; <i>Journal of the American Society for Mass Spectrometry</i>. 31(11), 2379–2388.'
 ---
 

@@ -10,6 +10,7 @@ venue: 'Journal of the American Society for Mass Spectrometry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/10.1021/jasms.4c00231'
 bibtexurl: 'http://qduez.github.io/files/24_JASMS_Sarajit.bib'
+imgurl: '/files/24_JASMS_Sarajit.png'
 citation: 'Sarajit Naskar, Andrea Minoia, Quentin Duez, Aidan Izugabe, Julien De Winter, Stephen J. Blanksby, Christopher Barner-Kowollik, Jérôme Cornil, Pascal Gerbaux. (2024). &quot; Polystyrene Chain Geometry Probed by Ion Mobility Mass Spectrometry and Molecular Dynamics Simulations.&quot; <i>Journal of the American Society for Mass Spectrometry</i>. 35(10), 2408–2419.'
 ---
 

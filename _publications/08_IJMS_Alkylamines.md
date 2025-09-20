@@ -9,6 +9,7 @@ venue: 'International Journal of Mass Spectrometry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1387380618302082'
 bibtexurl: 'http://qduez.github.io/files/08_IJMS_Alkylamines.bib'
+imgurl: '/files/08_IJMS_Alkylamines.png'
 citation: 'Quentin Duez, Nick A. Van Huizen, Vincent Lemaur, Julien De Winter, Jérôme Cornil, Peter C. Burgers, Pascal Gerbaux. (2019). &quot;Silver ion induced folding of alkylamines observed by ion mobility experiments.&quot; <i>International Journal of Mass Spectrometry</i>. 435, 34-41.'
 ---
 Abstract :

@@ -9,6 +9,7 @@ venue: 'Journal of Mass Spectrometry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/epdf/10.1002/jms.3915'
 bibtexurl: 'http://qduez.github.io/files/01_JMS_PLA.bib'
+imgurl: '/files/01_JMS_PLA.png'
 citation: 'Quentin Duez, Thomas Josse, Vincent Lemaur, Fabien Chirot, Chang Minh Choi, Philippe Dubois, Philippe Dugourd, Jérôme Cornil, Pascal Gerbaux, Julien De Winter. (2017). &quot;Correlation between the shape of the ion mobility signals and the stepwise folding process of polylactide ions.&quot; <i>Journal of Mass Spectrometry</i>. 52(3), 133-138.'
 ---
 Abstract :

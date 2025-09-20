@@ -10,6 +10,7 @@ venue: 'Nature'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.nature.com/articles/s41586-024-07567-x'
 bibtexurl: 'http://qduez.github.io/files/22_Nature_Formose.bib'
+imgurl: '/files/22_Nature_Formose.png'
 citation: 'Mathieu G. Baltussen, Thijs J. de Jong, Quentin Duez, William E. Robinson, Wilhelm T. S. Huck. (2024). &quot; Chemical reservoir computation in a self-organizing reaction network.&quot; <i>Nature</i>. 631(8021), 549-555.'
 ---
 

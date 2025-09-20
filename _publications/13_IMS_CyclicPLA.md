@@ -9,6 +9,7 @@ venue: 'Rapid Communications in Mass Spectrometry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/rcm.8660'
 bibtexurl: 'http://qduez.github.io/files/13_IMS_CyclicPLA.bib'
+imgurl: '/files/13_IMS_CyclicPLA.png'
 citation: 'Romain Liénard, Quentin Duez, Scott Grayson, Pascal Gerbaux, Olivier Coulembier, Julien De Winter. (2020). &quot; Limitations of ion mobility spectrometry-mass spectrometry for the relative quantification of architectural isomeric polymers: A case study.&quot; <i>Rapid Communications in Mass Spectrometry</i>. 34(S2), e8660.'
 ---
 

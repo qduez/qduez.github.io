@@ -9,6 +9,7 @@ venue: 'Analytical Methods'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2018/ay/c8ay00568k'
 bibtexurl: 'http://qduez.github.io/files/04_AnalMethods_Poriel.bib'
+imgurl: '/files/04_AnalMethods_Poriel.png'
 citation: 'Quentin Duez, Maxime Romain, Corentin Tonneaux, Julien De Winter, Vincent Lemaur, Jérôme Cornil, Cyril Poriel, Pascal Gerbaux. (2018). &quot;Discrimination of positional isomers by ion mobility mass spectrometry: Application to organic semiconductors.&quot; <i>Analytical Methods</i>. 10(20), 2303-2306.'
 ---
 Abstract :

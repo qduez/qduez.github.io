@@ -9,6 +9,7 @@ venue: 'Journal of American Chemical Society'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://pubs.acs.org/doi/10.1021/jacs.9b02544'
 bibtexurl: 'http://qduez.github.io/files/10_JACS_Azo.bib'
+imgurl: '/files/10_JACS_Azo.png'
 citation: 'Agostino Galanti, Jasmin Santoro, Rajesh Mannancherry, Quentin Duez, Valentin Diez-Cabanes, Michal Valásek, Julien De Winter, Jérôme Cornil, Pascal Gerbaux, Marcel Mayor, Paolo Samorì. (2019). &quot; A New Class of Rigid Multi(azobenzene) Switches Featuring Electronic Decoupling: Unravelling the Isomerization in Individual Photochromes.&quot; <i>Journal of American Chemical Society</i>. 141(23), 9273-9283.'
 ---
 Abstract :
