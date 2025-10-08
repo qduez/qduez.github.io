@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 'Chargé de Recherches' FNRS postdoctoral researcher in the Organic Synthesis and Mass Spectrometry Lab at the University of Mons (Belgium), led by [Pascal Gerbaux](https://staff.umons.ac.be/pascal.gerbaux/activites.html).
+I am currently a 'Chargé de Recherches' FNRS researcher in the Organic Synthesis and Mass Spectrometry Lab at the University of Mons (Belgium), led by [Pascal Gerbaux](https://staff.umons.ac.be/pascal.gerbaux/activites.html).
 
 I am interested in **mass spectrometry**, **ion mobility spectrometry** and in developing approaches around these techniques to look at chemistry in new ways.
 

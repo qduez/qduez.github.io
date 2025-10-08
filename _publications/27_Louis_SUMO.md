@@ -3,7 +3,7 @@ title: "Impact of Post-Translational Succination on Small Ubiquitin-Like Modifie
 collection: publications
 category: 2021-2025
 permalink: /publication/27_Louis_SUMO
-excerpt: 'Here, we investigated the impact of post-translational succination on the structure and stability of small ubiquitin-like modifier 1 (SUMO1). Combining solution, gas-phase and modelling studies reveals a complete picture of the changes induces by succination.'
+excerpt: 'Here, we investigated the impact of post-translational succination on the structure and stability of small ubiquitin-like modifier 1 (SUMO1). Combining solution, gas-phase and modelling studies reveals a complete picture of the changes induced by succination.'
 date: 2025-07-13
 venue: 'ACS Pharmacology & Translational Science'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
