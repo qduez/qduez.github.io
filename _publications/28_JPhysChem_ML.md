@@ -10,7 +10,7 @@ venue: 'Journal of Physical Chemistry Letters'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.jpclett.5c01525'
 bibtexurl: 'http://qduez.github.io/files/28_JPhysChem_ML.bib'
 imgurl: '/files/28_JPhysChem_ML.png'
-citation: 'Quentin Duez*, Charlotte Lefebvre, Jérôme Cornil, Julien De Winter, Pascal Gerbaux. (2025). &quot; Classifying Host–Guest Topology with Ion Mobility-Mass Spectrometry and Machine Learning.&quot; <i>Journal of Physical Chemistry Letters</i>. 16(30), 7551-7559.'
+citation: 'Quentin Duez*, Charlotte Lefebvre, Jérôme Cornil, Julien De Winter, Pascal Gerbaux. (2025). &quot;Classifying Host–Guest Topology with Ion Mobility-Mass Spectrometry and Machine Learning.&quot; <i>Journal of Physical Chemistry Letters</i>. 16(30), 7551-7559.'
 ---
 
 Abstract:

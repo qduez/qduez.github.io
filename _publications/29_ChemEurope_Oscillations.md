@@ -8,9 +8,9 @@ date: 2025-09-25 #!! Comment if submitted !!
 venue: 'ChemistryEurope' #!! Comment if submitted !!
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ceur.202500266'
-bibtexurl: 'http://qduez.github.io/files/28_JPhysChem_ML.bib'
+bibtexurl: 'http://qduez.github.io/files/29_ChemEurope_Oscillations.bib'
 imgurl: '/files/29_ChemEurope_Oscillations.png'
-citation: 'Charlotte Lefebvre, Quentin Duez.* (2025). &quot; Tracking Propagating Perturbations in Chemical Reactions.&quot; <i>ChemistryEurope</i>. Early View. e202500266'
+citation: 'Charlotte Lefebvre, Quentin Duez.* (2025). &quot;Tracking Propagating Perturbations in Chemical Reactions.&quot; <i>ChemistryEurope</i>. Early View. e202500266'
 ---
 
 Abstract:
