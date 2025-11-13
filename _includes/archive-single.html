@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-        <p>{{ title }}</p>
+        <p>{{ forloop.length | minus: forloop.index | plus: 1 }}. {{ title }}</p>
     </h2>
     
     {% if post.read_time %}

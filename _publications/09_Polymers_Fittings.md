@@ -1,5 +1,5 @@
 ---
-title: " One Step Further in the Characterization of Synthetic Polymers by Ion Mobility Mass Spectrometry: Evaluating the Contribution of End-groups "
+title: "One Step Further in the Characterization of Synthetic Polymers by Ion Mobility Mass Spectrometry: Evaluating the Contribution of End-groups "
 collection: publications
 category: 2016-2020
 permalink: /publication/09_Polymers_Fittings

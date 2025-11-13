@@ -1,5 +1,5 @@
 ---
-title: " A New Class of Rigid Multi(azobenzene) Switches Featuring Electronic Decoupling: Unravelling the Isomerization in Individual Photochromes "
+title: "A New Class of Rigid Multi(azobenzene) Switches Featuring Electronic Decoupling: Unravelling the Isomerization in Individual Photochromes "
 collection: publications
 category: 2016-2020
 permalink: /publication/10_JACS_Azo

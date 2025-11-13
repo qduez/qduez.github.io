@@ -1,5 +1,5 @@
 ---
-title: " Action-FRET of β-cyclodextrin inclusion complexes"
+title: "Action-FRET of β-cyclodextrin inclusion complexes"
 collection: publications
 category: 2016-2020
 permalink: /publication/02_NewJChem_ActionFRET
