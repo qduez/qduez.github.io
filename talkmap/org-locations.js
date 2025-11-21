@@ -73,5 +73,10 @@ var addressPoints = [
     "Ion mobility mass spectrometry and molecular dynamics reveal insights on ESI mechanisms<br />4<sup>th</sup> NVMS-BSMS Conference on Mass Spectrometry; Rolduc, The Netherlands",
     50.8667655,
     6.0766618
+  ],
+  [
+    "[Invited lecture] Integrating mass spectrometry and continuous flow chemistry for online reaction monitoring<br />Universit\u00e9 de Montpellier. Seminar of the Institut des Biomol\u00e9cules Max Mousseron, invited by Prof. C. Enjalbal.; Montpellier, France",
+    43.6112422,
+    3.8767337
   ]
 ];
