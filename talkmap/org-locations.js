@@ -1,23 +1,23 @@
 var addressPoints = [
   [
     "[Invited lecture] 60 years of mass spectrometry at the University of Mons<br />Wageningen University and Research. Seminar of the Food Chemistry department, together with Pascal Gerbaux, invited by Prof. J-P. Vincken.; Wageningen, The Netherlands",
-    51.9685817,
-    5.6682981
+    51.9663016,
+    5.6662814
   ],
   [
     "Mapping chemical reaction networks with mass spectrometry<br />NVMS Spring Symposium; Wageningen, The Netherlands",
-    51.9685817,
-    5.6682981
+    51.9663016,
+    5.6662814
   ],
   [
     "Metal-ligand equilibria in solution: Quantitative insights from isotopic labelling<br />5<sup>th</sup> NVMS-BSMS Meeting; Rolduc, The Netherlands",
-    50.8667655,
-    6.0766618
+    50.8667186,
+    6.0768499
   ],
   [
     "[Invited lecture] Tracking propagating perturbations in chemical reactions<br />Sorbonne Universit\u00e9. Joint seminar of the CSOB and CPP teams, invited by Prof. E. Sachon; Paris, France",
-    48.8534951,
-    2.3483915
+    48.8588897,
+    2.320041
   ],
   [
     "Inside out : Ion mobility for porphyrin cage catalysts<br />FMS Annual Meeting; Zwolle, The Netherlands",
@@ -26,13 +26,13 @@ var addressPoints = [
   ],
   [
     "Mapping chemical reaction networks by integrating ESI-MS and continuous flow chemistry<br />73<sup>rd</sup> ASMS Meeting; Baltimore (MD), USA",
-    39.3099614,
-    -76.6380087
+    39.2755265,
+    -76.589977
   ],
   [
     "From molecules in solution to ions in gas-phase: Modelling the Electrospray Ionization process<br />12<sup>th</sup> Meeting of the Young Chemists of the Belgian Royal Society of Chemistry; Brussels, Belgium",
-    50.8465573,
-    4.351697
+    50.8467372,
+    4.352493
   ],
   [
     "\u00c9valuation et d\u00e9veloppement de l'association mobilit\u00e9 ionique / dynamique mol\u00e9culaire pour l'\u00e9tude structurale de macro-ions en phase gazeuse : analyse conformationnelle d'ions polym\u00e8res produits par Electrospray<br />Annual Meeting of the Belgian Royal Society of Chemistry; Li\u00e8ge, Belgium",
@@ -76,8 +76,8 @@ var addressPoints = [
   ],
   [
     "Ion mobility mass spectrometry and molecular dynamics reveal insights on ESI mechanisms<br />4<sup>th</sup> NVMS-BSMS Conference on Mass Spectrometry; Rolduc, The Netherlands",
-    50.8667655,
-    6.0766618
+    50.8667186,
+    6.0768499
   ],
   [
     "[Invited lecture] Integrating mass spectrometry and continuous flow chemistry for online reaction monitoring<br />Universit\u00e9 de Montpellier. Seminar of the Institut des Biomol\u00e9cules Max Mousseron, invited by Prof. C. Enjalbal.; Montpellier, France",
