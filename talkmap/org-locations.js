@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "[Invited lecture] 60 years of mass spectrometry at the University of Mons<br />Wageningen University and Research. Seminar of the Food Chemistry department, together with Pascal Gerbaux, invited by Prof. J-P. Vincken.; Wageningen, The Netherlands",
+    51.9685817,
+    5.6682981
+  ],
+  [
     "Mapping chemical reaction networks with mass spectrometry<br />NVMS Spring Symposium; Wageningen, The Netherlands",
     51.9685817,
     5.6682981
@@ -21,8 +26,8 @@ var addressPoints = [
   ],
   [
     "Mapping chemical reaction networks by integrating ESI-MS and continuous flow chemistry<br />73<sup>rd</sup> ASMS Meeting; Baltimore (MD), USA",
-    39.3514979,
-    -76.6964933
+    39.3099614,
+    -76.6380087
   ],
   [
     "From molecules in solution to ions in gas-phase: Modelling the Electrospray Ionization process<br />12<sup>th</sup> Meeting of the Young Chemists of the Belgian Royal Society of Chemistry; Brussels, Belgium",
