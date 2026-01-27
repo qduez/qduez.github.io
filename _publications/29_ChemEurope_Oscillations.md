@@ -6,7 +6,7 @@ permalink: /publication/29_ChemEurope_Oscillations
 excerpt: 'Periodic perturbations, such as modulations of reactant concentration, propagate through chemical reactions with distinct phase delays. In this project, we used ESI-MS to monitor the propagation of periodic concentrations perturbations through an organocatalytic reaction in a continuous stirred tank reactor (CSTR). The propagation patterns provide insights on reaction kinetics in solution, especially by comparing reactants bearing electron donating or withdrawing substituents. Although the reaction studied is relatively simple, we plan to extend this approach to much larger reaction networks.
 
 
-**With this publication, we made a [cover feature for ChemistryEurope](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ceur.701969) !** :)'
+**With this publication, we made a [cover feature for ChemistryEurope](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/ceur.70196) !** :)'
 date: 2026-01-01 #!! Comment if submitted !!
 venue: 'ChemistryEurope' #!! Comment if submitted !!
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
