@@ -1,7 +1,7 @@
 ---
 title: "Tracking Propagating Perturbations in Chemical Reactions (Open Access)"
 collection: publications
-category: 2021-2025
+category: 2026-2030
 permalink: /publication/29_ChemEurope_Oscillations
 excerpt: 'Periodic perturbations, such as modulations of reactant concentration, propagate through chemical reactions with distinct phase delays. In this project, we used ESI-MS to monitor the propagation of periodic concentrations perturbations through an organocatalytic reaction in a continuous stirred tank reactor (CSTR). The propagation patterns provide insights on reaction kinetics in solution, especially by comparing reactants bearing electron donating or withdrawing substituents. Although the reaction studied is relatively simple, we plan to extend this approach to much larger reaction networks.
 

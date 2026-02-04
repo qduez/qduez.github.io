@@ -84,6 +84,8 @@ publication_category:
     title: 'Books'
   submitted:
     title: 'Submitted for publication'
+  2026-2030:
+    title: 'Peer-reviewed articles since 2026'
   2021-2025:
     title: 'Peer-reviewed articles between 2021-2025'
   2016-2020:
