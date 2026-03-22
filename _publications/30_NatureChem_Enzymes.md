@@ -10,7 +10,7 @@ venue: 'Nature Chemistry' #!! Comment if submitted !!
 paperurl: 'https://www.nature.com/articles/s41557-025-01981-y'
 bibtexurl: 'http://qduez.github.io/files/30_NatureChem_Enzymes.bib'
 imgurl: '/files/30_NatureChem_Enzymes.png'
-citation: 'Souvik Ghosh, Mathieu G. Baltussen, Anna C. Knox, Rianne Haije, Quentin Duez, Anastasia T. Tsitsimeli, Man Him Chak, Jonathon E. Beves & Wilhelm T. S. Huck. (2025). &quot;A recursive enzymatic competition network capable of multitask molecular information processing.&quot; <i>Nature Chemistry</i>, 18 (2), 302–308. https://doi.org/10.1038/s41557-025-01981-y'
+citation: 'Souvik Ghosh, Mathieu G. Baltussen, Anna C. Knox, Rianne Haije, Quentin Duez, Anastasia T. Tsitsimeli, Man Him Chak, Jonathon E. Beves & Wilhelm T. S. Huck. (2026). &quot;A recursive enzymatic competition network capable of multitask molecular information processing.&quot; <i>Nature Chemistry</i>, 18 (2), 302–308. https://doi.org/10.1038/s41557-025-01981-y'
 ---
 
 Abstract:
