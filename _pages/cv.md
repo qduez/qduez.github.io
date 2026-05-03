@@ -20,7 +20,6 @@ Work experience
 ======
 * Since Nov. 2023: 'Chargé de Recherches' FNRS postdoctoral researcher
   * Organic Synthesis and Mass Spectrometry Laboratory, UMONS
-  * Supervisor: Prof. Pascal Gerbaux
 
 * Nov. 2022 - Oct. 2023: Postdoctoral researcher
   * Physical Organic Chemistry, Radboud University
