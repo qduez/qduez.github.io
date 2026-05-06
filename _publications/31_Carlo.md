@@ -2,7 +2,7 @@
 title: "Identification of Glycosylated and Prenylated (Iso)flavonoids Using
 cIMS-MS"
 collection: publications
-category: submitted
+category: 2026-2030
 permalink: /publication/31_Carlo
 excerpt: 'In this study, a cyclic ion mobility-MS (cIMS-MS) method was developed to strengthen the identification of prenylated and glycosylated (iso)flavonoids using collisional cross sections. In addition, a modeling approach was explored, revealing the potential of integrating molecular dynamics simulations for CCS prediction and identification of unknowns. The combined LC-MSn and cIMS-MS approach was able to strengthen identification of several prenylated and glycosylated (iso)flavonoids in a proof of concept analysis of a licorice root extract, thereby demonstrating the power of this approach for the identification of substituted (iso)flavonoids in complex extracts.'
 date: 2026-04-30 #!! Comment if submitted !!
