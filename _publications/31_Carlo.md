@@ -1,6 +1,6 @@
 ---
 title: "Identification of Glycosylated and Prenylated (Iso)flavonoids Using
-cIMS-MS"
+cIMS-MS (Open Access)"
 collection: publications
 category: 2026-2030
 permalink: /publication/31_Carlo
