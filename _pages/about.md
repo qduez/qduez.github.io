@@ -103,7 +103,7 @@ redirect_from:
 }
 </style>
 
-I am a researcher developing novel approaches around mass spectrometry and ion mobility spectrometry to explore chemistry in new ways, currently at the [Organic Synthesis & Mass Spectrometry Lab](https://web.umons.ac.be/smos/) at the University of Mons (Belgium).
+I am a researcher developing methods using mass spectrometry and ion mobility spectrometry to explore chemistry in new ways, currently at the [Organic Synthesis & Mass Spectrometry Lab](https://web.umons.ac.be/smos/) at the University of Mons (Belgium).
 
 <p class="section-label">Research interests</p>
 <div class="tags">
