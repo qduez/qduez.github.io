@@ -12,7 +12,7 @@ paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.analchem.5c06302'
 bibtexurl: 'http://qduez.github.io/files/31_Carlo.bib'
 imgurl: '/files/31_Carlo.png'
 citation: 'Carlo Roberto de Bruin, Quentin Duez, Marie Hennebelle, Jean-Paul Vincken, and Wouter J. C. de Bruijn. (2026). &quot;Identification of Glycosylated and Prenylated (Iso)flavonoids Using
-cIMS-MS.&quot; <i>Analytical Chemistry</i>, in press.'
+cIMS-MS.&quot; <i>Analytical Chemistry</i>, 98 (18), 13269–13282. https://doi.org/10.1021/acs.analchem.5c06302.'
 ---
 
 Abstract:
