@@ -2,7 +2,7 @@
 title: "polycIMS: Polymers for Automated Cyclic Ion Mobility Spectrometry Calibration"
 collection: publications
 category: submitted
-permalink: /publication/34_polycIMS
+permalink: /publication/35_polycIMS
 excerpt: 'Here, we introduce polycIMS, a command-line tool that automates cIMS calibration and generates charge-independent calibration curves covering a broad CCS range from 100 – 1500 Å², within just 3 minutes on a standard laptop. Calibrated CCS can be determined in He or N2 (TWCCSN2→He, TWCCSN2→N2) using inexpensive, commercially-available polymer standards and are validated against reported values for more than 50 reference ions. '
 #date: 2026-02-01 #!! Comment if submitted !!
 #venue: 'Nature Chemistry' #!! Comment if submitted !!
