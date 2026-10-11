@@ -118,8 +118,8 @@ I am a researcher developing methods using mass spectrometry and ion mobility sp
   <div class="tl-item">
     <span class="tl-period">2023 – present</span>
     <div class="tl-body">
-      <p class="tl-title">Chargé de Recherches, FNRS</p>
-      <p class="tl-sub"><a href="https://web.umons.ac.be/smos/">S2MOS Lab</a> · University of Mons, Belgium</p>
+      <p class="tl-title">Chargé de Recherches FNRS fellow</p>
+      <p class="tl-sub"><a href="https://web.umons.ac.be/smos/">S²MOS Lab</a> · University of Mons, Belgium</p>
     </div>
   </div>
   <div class="tl-item">
@@ -139,8 +139,8 @@ I am a researcher developing methods using mass spectrometry and ion mobility sp
   <div class="tl-item">
     <span class="tl-period">2016 – 2020</span>
     <div class="tl-body">
-      <p class="tl-title">Aspirant FNRS — PhD Student</p>
-      <p class="tl-sub"><a href="https://web.umons.ac.be/smos/">S2MOS Lab</a> · University of Mons, Belgium · Supervised by Pascal Gerbaux &amp; Jérôme Cornil</p>
+      <p class="tl-title">Aspirant FNRS fellow — PhD Student</p>
+      <p class="tl-sub"><a href="https://web.umons.ac.be/smos/">S²MOS Lab</a> · University of Mons, Belgium · Supervised by Pascal Gerbaux &amp; Jérôme Cornil</p>
     </div>
   </div>
 </div>
