@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Since Nov. 2023: 'Chargé de Recherches' FNRS postdoctoral researcher
+* Nov. 2023 - Nov. 2026: 'Chargé de Recherches' FNRS fellow
   * Organic Synthesis and Mass Spectrometry Laboratory, UMONS
 
 * Nov. 2022 - Oct. 2023: Postdoctoral researcher
