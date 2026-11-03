@@ -116,7 +116,14 @@ I am a researcher developing methods using mass spectrometry and ion mobility sp
 <p class="section-label">Career</p>
 <div class="timeline">
   <div class="tl-item">
-    <span class="tl-period">2023 – present</span>
+    <span class="tl-period">2026 – present</span>
+    <div class="tl-body">
+      <p class="tl-title">Research assistant</p>
+      <p class="tl-sub"><a href="https://web.umons.ac.be/smos/">S²MOS Lab</a> · University of Mons, Belgium</p>
+    </div>
+  </div>
+  <div class="tl-item">
+    <span class="tl-period">2023 – 2026</span>
     <div class="tl-body">
       <p class="tl-title">Chargé de Recherches FNRS fellow</p>
       <p class="tl-sub"><a href="https://web.umons.ac.be/smos/">S²MOS Lab</a> · University of Mons, Belgium</p>

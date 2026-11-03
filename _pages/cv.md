@@ -18,7 +18,10 @@ Education
 
 Work experience
 ======
-* Nov. 2023 - Nov. 2026: 'Chargé de Recherches' FNRS fellow
+* Nov. 2026 - Now: Research assistant
+  * Organic Synthesis and Mass Spectrometry Laboratory, UMONS
+
+* Nov. 2023 - Oct. 2026: 'Chargé de Recherches' FNRS fellow
   * Organic Synthesis and Mass Spectrometry Laboratory, UMONS
 
 * Nov. 2022 - Oct. 2023: Postdoctoral researcher
